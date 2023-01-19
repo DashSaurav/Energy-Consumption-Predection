@@ -20,3 +20,4 @@ https://sci-hub.se/https://www.sciencedirect.com/science/article/abs/pii/S037877
   
 
 New link - https://sci-hub.se/https://www.sciencedirect.com/science/article/abs/pii/S1364032117306093
+Github 8 years old - https://cs109-energy.github.io/building-energy-consumption-prediction.html
