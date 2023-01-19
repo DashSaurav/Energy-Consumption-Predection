@@ -1,0 +1,20 @@
+3 types of data will be considered for predection. 
+https://sci-hub.se/https://www.sciencedirect.com/science/article/abs/pii/S0378778821002139 - file to refer.
+  1. Meterogological Data
+  2. Time Releated Data
+  3. Building Energy Consumption Data.
+
+1. Meterogological Data are as follows: 
+  Outdoor temperature
+  Wind speed
+  Visibility
+  Atmospheric Pressure
+  Relative humidity
+  Dew Point
+  Day-Type
+2. Time Releated Data
+  Month
+  DateTime
+  
+3. Building Consumption Data
+  
