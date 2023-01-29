@@ -1,0 +1,13 @@
+## in cmd write - pip install plyer
+
+from plyer import notification
+import time
+
+while True:
+    time.sleep(30) #for every30 seconds
+    notification.notify(
+        title = 'testing',
+        message = 'message',
+        app_icon = "image.ico", #image icon file.
+        timeout = 10, #show for 10 seconds
+    )
